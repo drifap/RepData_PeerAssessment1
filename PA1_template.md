@@ -1,10 +1,4 @@
----
-title: "Reproducible Research - Peer Assessment 1"
-author: "Drifa Palin Geirs"
-date: "Thursday, July 17, 2014"
-output: html_document
----
-
+# Reproducible Research - Peer Assessment 1
 
 ## Loading and preprocessing the data
 
